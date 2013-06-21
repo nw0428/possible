@@ -9,7 +9,8 @@ Spree.config do |config|
   # Example:
   # Uncomment to override the default site name.
   config.site_name = "Project Possible Sales"
-  config.set(logo: "store/Possible\ Project.tiff")
+  config.set(logo: "store/inno_logo.png")
+  config.set(logo: "admin/inno_logo.png")
 end
 
 Spree.user_class = "Spree::User"

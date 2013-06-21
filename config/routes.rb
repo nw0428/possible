@@ -4,6 +4,7 @@ Possible::Application.routes.draw do
 
   resources :posts
   resources :edures
+  resources :buisnesses
 
 
 

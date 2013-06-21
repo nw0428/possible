@@ -67,7 +67,7 @@ module Possible
     config.active_record.whitelist_attributes = true
 
     # Enable the asset pipeline
-    config.assets.enabled = false
+    config.assets.enabled = true
 
     config.assets.initialize_on_precompile = false
 
